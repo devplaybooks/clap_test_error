@@ -4,3 +4,6 @@
 ---
 
 Attempting to isolate a potential issue I found in [Clap.rs](https://github.com/clap-rs/clap).
+
+I found that working through different ways to use Clap. Now that I've isolated the issue, I wonder 
+if I can write a test in Clap to isolate it and potentially resolve it.
